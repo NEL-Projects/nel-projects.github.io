@@ -1,0 +1,70 @@
+{
+  "labLeader": {
+    "name": "Dr. Daria Anderson",
+    "title": "Lab Director & Principal Investigator",
+    "description": "Dr. Anderson is currently running her lab at The University of Sydney, where she explores structural and functional decoupling in a mouse model of temporal lobe epilepsy as a biomarker for network restructuring. Previously, she was a Post Doctoral Researcher and Doctorate Student / Research Assistant at The University of Utah, specializing in neuromodulation, epilepsy research, and electrophysiology.",
+    "photo": "/images/daria-anderson.svg",
+    "researchInterests": [
+      "Neuromodulation",
+      "Epilepsy",
+      "Electrophysiology"
+    ],
+    "education": [
+      "Ph.D. in Neuroscience from The University of Utah",
+      "Post Doctoral Researcher at The University of Utah",
+      "Current: Lab Director at The University of Sydney"
+    ],
+    "achievements": [
+      "Leading research on temporal lobe epilepsy biomarkers",
+      "Expert in structural and functional network analysis",
+      "Specialized in neuromodulation techniques",
+      "Advanced electrophysiology methodologies"
+    ]
+  },
+  "teamMembers": [
+    {
+      "name": "Josh Mosse-Robinson",
+      "title": "PhD Candidate",
+      "description": "Researching Automated Detection of Seizures and Predictors of Neuromodulation Efficacy for Reducing Incidence of Seizures in Epilepsy.",
+      "photo": "/images/josh-mosse-robinson.svg",
+      "researchInterests": []
+    },
+    {
+      "name": "Joshua Wooley",
+      "title": "PhD Candidate",
+      "description": "Researching Identifying biomarkers driving long-term improvements in responsive neurostimulation for epilepsy.",
+      "photo": "/images/joshua-wooley.svg",
+      "researchInterests": []
+    },
+    {
+      "name": "Michael Sun",
+      "title": "PhD Candidate",
+      "description": "Researching Automated Detection of Seizures and Predictors of Neuromodulation Efficacy for Reducing Incidence of Seizures in Epilepsy.",
+      "photo": "/images/michael-sun.svg",
+      "researchInterests": []
+    }
+  ],
+  "researchAreas": [
+    {
+      "title": "Temporal Lobe Epilepsy",
+      "description": "Investigating structural and functional decoupling in mouse models of temporal lobe epilepsy as biomarkers for network restructuring and therapeutic development.",
+      "icon": "Brain"
+    },
+    {
+      "title": "Network Restructuring",
+      "description": "Studying how neural networks reorganize during epilepsy and developing biomarkers to track structural and functional changes in the brain.",
+      "icon": "Network"
+    },
+    {
+      "title": "Electrophysiology",
+      "description": "Advanced electrophysiological techniques to understand neural activity patterns and electrical properties in epilepsy models and network analysis.",
+      "icon": "Zap"
+    }
+  ],
+  "contact": {
+    "email": "daria.anderson@sydney.edu.au",
+    "title": "Get in Touch",
+    "description": "Interested in our research on temporal lobe epilepsy and network restructuring? We'd love to hear from you!",
+    "message": "Feel free to reach out if you have questions about our work, are interested in collaboration opportunities, or would like to learn more about joining our lab."
+  }
+} 
