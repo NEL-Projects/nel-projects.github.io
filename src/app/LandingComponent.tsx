@@ -228,7 +228,7 @@ export default function LandingComponent() {
         </section>
       </main>
       <footer className="flex flex-col gap-2 sm:flex-row py-6 w-full shrink-0 items-center px-4 md:px-6 border-t glass">
-        <p className="text-xs text-gray-500 dark:text-gray-400">© 2024 Neural Engineering Research Group. All rights reserved.</p>
+        <p className="text-xs text-gray-500 dark:text-gray-400">© 2025 Anderson Neural Engineering Lab. All rights reserved.</p>
         <div className="sm:ml-auto flex items-center space-x-4">
           <Link href="https://github.com/NEL-Projects" target="_blank" rel="noopener noreferrer" className="hover:scale-110 transition-transform duration-200">
             <Github className="h-5 w-5" />
