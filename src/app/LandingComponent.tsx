@@ -7,6 +7,7 @@ import { Textarea } from "@/components/ui/textarea"
 import { Card, CardContent } from "@/components/ui/card"
 import { Brain, Zap, Network, Users, Mail, Github, Twitter } from "lucide-react"
 import labData from "@/data/lab-members.json"
+import SoftGradientBackground from "@/components/SoftGradientBackground"
 
 // Icon mapping for research areas
 const iconMap = {
@@ -62,12 +63,13 @@ export default function LandingComponent() {
         </nav>
       </header>
       <main className="flex-1">
-        <section className="w-full py-12 md:py-24 lg:py-32 xl:py-48 particles">
-          <div className="container mx-auto px-4 md:px-6">
+        <section className="w-full py-12 md:py-24 lg:py-32 xl:py-48 relative">
+          <SoftGradientBackground />
+          <div className="container mx-auto px-4 md:px-6 relative z-10">
             <div className="flex flex-col items-center space-y-4 text-center">
               <div className="space-y-2">
                 <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl/none slide-in stagger-1">
-                  <span className="text-gradient">USYD Neural Engineering</span>
+                  <span className="text-gradient">Anderson Neural Engineering Lab</span>
                 </h1>
                 <p className="mx-auto max-w-[700px] text-gray-500 md:text-xl dark:text-gray-400 slide-in stagger-2">
                   Advancing the frontiers of neuromodulation, epilepsy research, and electrophysiology to develop innovative neural therapies and biomarkers at The University of Sydney.
@@ -228,7 +230,7 @@ export default function LandingComponent() {
         </section>
       </main>
       <footer className="flex flex-col gap-2 sm:flex-row py-6 w-full shrink-0 items-center px-4 md:px-6 border-t glass">
-        <p className="text-xs text-gray-500 dark:text-gray-400">© 2024 Neural Engineering Research Group. All rights reserved.</p>
+        <p className="text-xs text-gray-500 dark:text-gray-400">© 2025 Anderson Neural Engineering Lab. All rights reserved.</p>
         <div className="sm:ml-auto flex items-center space-x-4">
           <Link href="https://github.com/NEL-Projects" target="_blank" rel="noopener noreferrer" className="hover:scale-110 transition-transform duration-200">
             <Github className="h-5 w-5" />

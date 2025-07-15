@@ -3,7 +3,7 @@
     "name": "Dr. Daria Anderson",
     "title": "Lab Director & Principal Investigator",
     "description": "Dr. Anderson is currently running her lab at The University of Sydney, where she explores structural and functional decoupling in a mouse model of temporal lobe epilepsy as a biomarker for network restructuring. Previously, she was a Post Doctoral Researcher and Doctorate Student / Research Assistant at The University of Utah, specializing in neuromodulation, epilepsy research, and electrophysiology.",
-    "photo": "/images/daria-anderson.svg",
+    "photo": "/images/daria-anderson.jpg",
     "researchInterests": [
       "Neuromodulation",
       "Epilepsy",
@@ -26,7 +26,7 @@
       "name": "Josh Mosse-Robinson",
       "title": "PhD Candidate",
       "description": "Researching Automated Detection of Seizures and Predictors of Neuromodulation Efficacy for Reducing Incidence of Seizures in Epilepsy.",
-      "photo": "/images/josh-mosse-robinson.svg",
+      "photo": "/images/josh-mosse-robinson.jpg",
       "researchInterests": []
     },
     {
